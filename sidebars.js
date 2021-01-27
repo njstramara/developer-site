@@ -10,11 +10,11 @@ module.exports = {
 		{
 			type: 'link',
 			label: 'Developer blog',
-			href: 'https://developer.yoast.com/blog'
+			href: 'https://www.whiskinwellness.com'
 		},
 		{
 			type: 'category',
-			label: 'Yoast SEO features',
+			label: 'Browse by Category',
 			items: [
 				{
 					type: 'category',
@@ -43,15 +43,6 @@ module.exports = {
 
 						{
 							type: 'category',
-							label: 'Descriptions',
-							items: [
-								'features/seo-tags/descriptions/overview',
-								'features/seo-tags/descriptions/functional-specification',
-								'features/seo-tags/descriptions/api',
-							],
-						},
-						{
-							type: 'category',
 							label: 'Canonical URLs',
 							items: [
 								'features/seo-tags/canonical-urls/overview',
@@ -74,7 +65,7 @@ module.exports = {
 
 				{
 					type: 'category',
-					label: 'OpenGraph',
+					label: 'WIW',
 					items: [
 						'features/opengraph/overview',
 						'features/opengraph/functional-specification',
@@ -103,13 +94,13 @@ module.exports = {
 						'features/schema/api',
 						{
 							type: 'link',
-							label: 'Schema.org pieces',
-							href: '/features/schema/pieces'
+							label: 'Diet',
+							href: 'https://www.whiskinwellness.com'
 						},
 						{
 							type: 'link',
 							label: 'Output per plugin',
-							href: '/features/schema/plugins'
+							href: 'https://www.whiskinwellness.com/dietart-needs'
 						},
 					],
 				},
@@ -231,7 +222,7 @@ module.exports = {
 		{
 			type: 'link',
 			label: '‹ Schema.org plugin output',
-			href: '/features/schema/overview'
+			href: 'https://www.whiskinwellness.com'
 		},
 		'features/schema/plugins',
 		{
@@ -250,7 +241,7 @@ module.exports = {
 		{
 			type: 'link',
 			label: '‹ Schema.org pieces',
-			href: '/features/schema/overview'
+			href: 'https://www.whiskinwellness.com'
 		},
 		'features/schema/pieces',
 		{
